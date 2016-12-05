@@ -16,9 +16,4 @@ public class JQueryComponentConstants {
      * WidgetParam service
      */
     public static final String CUSTOM_ZONE = "CustomZone";
-
-    /**
-     * Parameter used by the fileuploader js
-     */
-    public static final String FILE_UPLOAD_PARAMETER = "qqfile";
 }
